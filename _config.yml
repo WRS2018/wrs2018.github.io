@@ -3,11 +3,7 @@ title:              First International Workshop on Reaction Systems
 description:        "First International Workshop on Reaction Systems"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-<<<<<<< HEAD
 url: "https://wrs2018.github.io" # the base hostname & protocol for your site
-=======
-url: "http://wrs2018.github.io/" # the base hostname & protocol for your site
->>>>>>> 72e4cf524b725e797089a5f9dcf2afec2cd91309
 
 # Jekyll
 permalink:          title/
