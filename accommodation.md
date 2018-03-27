@@ -8,6 +8,8 @@ sitemap:
     changefreq: weekly
 ---
 
+## Accommodation
+
 **Hotels near the Central railway station**
 
 Hotel Bernina &#9734;&#9734;&#9734;<br>
