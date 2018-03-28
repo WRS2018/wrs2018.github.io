@@ -45,4 +45,4 @@ sitemap:
 - *Reaction Systems and Graph Transformation*<br>
    by Grzegorz Rozenberg, Leiden, The Netherlands
    
-<small>Last update: March 28, 2018</small>
+*Last update: March 28, 2018*
