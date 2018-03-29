@@ -3108,10 +3108,11 @@
 		text-align: center;
 		z-index: 1;
 		min-height: 100vh;
+		word-break: break-all;
 	}
 
 		#intro input, #intro select, #intro textarea {
-			color: #ffffff;
+		    color: #ffffff;
 		}
 
 		#intro a {
