@@ -3109,6 +3109,7 @@
 		z-index: 1;
 		min-height: 100vh;
 		word-wrap: break-word;
+		-ms-word-wrap: break-word;
 	}
 
 		#intro input, #intro select, #intro textarea {
