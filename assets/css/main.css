@@ -3108,8 +3108,7 @@
 		text-align: center;
 		z-index: 1;
 		min-height: 100vh;
-		word-wrap: break-word;
-		-ms-word-wrap: break-word;
+		max-width: 100%;
 	}
 
 		#intro input, #intro select, #intro textarea {
