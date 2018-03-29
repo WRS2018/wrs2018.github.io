@@ -4563,3 +4563,22 @@
         page-break-after: avoid;
     }
 }
+
+ul {
+    list-style-type: disc;
+    font-size: 150%;
+    line-height: 67%;
+}
+
+.talk {
+    font-size: 67%;
+    font-style: italic;
+    margin-bottom: 0em;
+    padding-bottom: 0.75em;
+}
+
+.author {
+    font-size: 67%;
+    padding-bottom: 0.75em;
+    margin-bottom: 0.75em;
+}
