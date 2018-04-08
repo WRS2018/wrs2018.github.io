@@ -34,6 +34,8 @@ sitemap:
   <p class="author"> by Erzsébet Csuhaj-Varjú, Budapest, Hungary</p></li>
 <li> <p class="talk">Forbidding-Enforcing Systems and Reaction Systems</p>
   <p class="author"> by Daniela Genova, Jacksonville, FL, USA</p></li>
+<li> <p class="talk">Dynamic Causalities in Reaction Systems and their Applications</p>
+  <p class="author">by Roberta Gori, Pisa, Italy</p></li>
 <li> <p class="talk">State Sequences of Interactive Processes of Reaction Systems</p>
   <p class="author">  by Luca Manzoni, Milano, Italy</p></li>
 <li> <p class="talk">Cellular Automata and Reaction Systems</p>
