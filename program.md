@@ -41,7 +41,7 @@ sitemap:
 | 11:45 -- 12:20 | __Reaction Systems, Complexity and Bits of Category Theory__<br> by Enrico Formenti, Nice, France |
 | 12:20 -- 15:45 | Lunch |
 | 15:45 -- 16:20 | __Graph Isomorphism and Equivalence of Reaction Systems__<br> by Natasha Jonoska, Tampa, FL, USA |
-| 16:25 -- 17:00 | __Forbidding-Enforcing Systems and Reaction Systems__<br> by Daniela Genova, Jacksonville, FL, U|
+| 16:25 -- 17:00 | __Forbidding-Enforcing Systems, a Precursor of Reaction Systems__<br> by Daniela Genova, Jacksonville, FL, U|
 
 ### Thursday, June 14
 
