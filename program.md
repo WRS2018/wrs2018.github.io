@@ -19,7 +19,7 @@ sitemap:
 | 12:45 -- 15:45 | Lunch |
 | 15:45 -- 16:20 | __Reaction Systems, Transition Systems, and Equivalences__<br> by Maciej Koutny, Newcastle, UK |
 | 16:25 -- 17:00 | __Chemical Reaction Networks and Reaction Systems__<br> by Robert Brijder, Hasselt, Belgium |
-| 17:05 -- 17:25 | __Open Repository for Research on Reaction Systems__<br> by Sepinoud Azimi, Turku, Finlan|
+| 17:05 -- 17:25 | __Open Repository for Research on Reaction Systems__<br> by Sepinoud Azimi, Turku, Finland |
 
 ### Tuesday, June 12
 
@@ -41,7 +41,7 @@ sitemap:
 | 11:45 -- 12:20 | __Reaction Systems, Complexity and Bits of Category Theory__<br> by Enrico Formenti, Nice, France |
 | 12:20 -- 15:45 | Lunch |
 | 15:45 -- 16:20 | __Graph Isomorphism and Equivalence of Reaction Systems__<br> by Natasha Jonoska, Tampa, FL, USA |
-| 16:25 -- 17:00 | __Forbidding-Enforcing Systems, a Precursor of Reaction Systems__<br> by Daniela Genova, Jacksonville, FL, U|
+| 16:25 -- 17:00 | __Forbidding-Enforcing Systems, a Precursor of Reaction Systems__<br> by Daniela Genova, Jacksonville, FL, USA|
 
 ### Thursday, June 14
 
@@ -50,7 +50,7 @@ sitemap:
 | 11:15 -- 11:45 | Coffee break |
 | 11:45 -- 12:20 | __Reaction Automata__<br> by Fumiya Okubo, Tokyo, Japan |
 | 12:20 -- 15:45 | Lunch |
-| 15:45 -- 16:20 | __Networks of Bio-inspired Language Processors__<br> by Erzsébet Csuhaj-Varjú, Budapest, Hunga|
+| 15:45 -- 16:20 | __Networks of Bio-inspired Language Processors__<br> by Erzsébet Csuhaj-Varjú, Budapest, Hungary|
 
 ### Friday, June 15
 
