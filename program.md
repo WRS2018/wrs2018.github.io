@@ -45,8 +45,12 @@ sitemap:
 
 | 15:45 -- 16:20 | __Networks of Reaction Systems__<br> by Anna Labella, Rome, Italy                                                                                        |
 | 16:25 -- 17:00 | __Evolving Reaction Systems__<br> by Jetty Kleijn, Leiden, The Netherlands                                                                               |
-| 17:05 -- 17:35 | __Discussion session "Quantitative vs Qualitative models in Biology"__<br> Moderators: Sepinoud Azimi, Turku, Finland and Daniela Besozzi, Milano, Italy |
-| 20:00          | Social dinner                                                                                                                                            |
+
+<div style="font-family:Source Sans Pro,Helvetica,sans-serif">SESSION 3</div>
+<div style="font-family:Helvetica,sans-serif">Moderators: Daniela Besozzi, Milano, Italy and Sepinoud Azimi, Turku, Finland</div>
+
+| 17:10 -- 17:40 | __Discussion session "Quantitative vs Qualitative models in Biology"__ |
+| 20:00          | Social dinner                                                          |
 
 ### Wednesday, June 13
 
