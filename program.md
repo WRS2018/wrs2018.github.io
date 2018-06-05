@@ -51,6 +51,7 @@ sitemap:
 | 11:45 -- 12:20 | __Reaction Automata__<br> by Fumiya Okubo, Tokyo, Japan |
 | 12:20 -- 15:45 | Lunch |
 | 15:45 -- 16:20 | __Networks of Bio-inspired Language Processors__<br> by Erzsébet Csuhaj-Varjú, Budapest, Hungary|
+| 16:25 -- 17:00 | __Complexity of Interactive Processes of Reaction Systems__ <br> by Luca Manzoni, Milano, Italy|
 
 ### Friday, June 15
 
