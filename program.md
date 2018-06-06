@@ -17,7 +17,7 @@ sitemap:
 <div style="font-family:Source Sans Pro,Helvetica,sans-serif">SESSION 1</div>
 <div style="font-family:Helvetica,sans-serif">Chair: Giancarlo Mauri, Milano, Italy</div>
 
-| 10:15 -- 11:30 | __Zoom Structures and Reaction Systems__<br> by Grzegorz Rozenberg, Leiden, The Netherlands         |
+| 10:15 -- 11:30 | __Reaction Systems and Zoom Structures__<br> by Grzegorz Rozenberg, Leiden, The Netherlands         |
 | 11:35 -- 12:05 | Coffee break                                                                                        |
 | 12:05 -- 12:45 | __State Sequences of Interactive Processes of Reaction Systems__<br> by Luca Manzoni, Milano, Italy |
 | 12:45 -- 15:45 | Lunch                                                                                               |
