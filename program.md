@@ -94,5 +94,5 @@ sitemap:
 | 10:00 -- 10:35 | __Linking Reaction Systems with Rough Sets__<br> by Andrzej Skowron, Warsaw, Poland              |
 | 10:40 -- 11:15 | __Cellular Automata and Reaction Systems__<br> by Luca Manzoni, Milano, Italy                    |
 | 11:15 -- 11:45 | Coffee break                                                                                     |
-| 11:45 -- 12:20 | __Reaction Systems and Graph Transformation__<br> by Grzegorz Rozenberg, Leiden, The Netherlands |
-| 12:20 -- 15:45 | Lunch                                                                                            |
+| 11:45 -- 12:40 | __Reaction Systems and Graph Transformation__<br> by Grzegorz Rozenberg, Leiden, The Netherlands |
+| 12:40 | Lunch                                                                                            |
