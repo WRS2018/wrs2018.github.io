@@ -1,10 +1,10 @@
 ---
 layout: page
-title: WRS - Expected Presentations
+title: WRS - Program
 description:
 sitemap:
   priority: 1.0
-  lastmod: 2018-03-28
+  lastmod: 2018-06-07
   changefreq: weekly
 ---
 
