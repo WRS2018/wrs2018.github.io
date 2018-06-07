@@ -12,15 +12,15 @@ sitemap:
 
 ### Monday, June 11
 
-| 10:00 -- 10:15 | Opening
+| 10:00 -- 10:15 | Opening |
  
 <div style="font-family:Source Sans Pro,Helvetica,sans-serif">SESSION 1</div>
 <div style="font-family:Helvetica,sans-serif">Chair: Giancarlo Mauri, Milano, Italy</div>
 
-| 10:15 -- 11:30 | __Reaction Systems and Zoom Structures__<br> by Grzegorz Rozenberg, Leiden, The Netherlands         |
-| 11:35 -- 12:05 | Coffee break                                                                                        |
-| 12:05 -- 12:45 | __State Sequences of Interactive Processes of Reaction Systems__<br> by Luca Manzoni, Milano, Italy |
-| 12:45 -- 15:45 | Lunch                                                                                               |
+| 10:15 -- 11:30 | __Reaction Systems and Zoom Structures__<br> by Grzegorz Rozenberg, Leiden, The Netherlands                                                |
+| 11:35 -- 12:05 | Coffee break                                                                                                                               |
+| 12:05 -- 12:45 | __State Sequences of Interactive Processes of Reaction Systems__<br> by Luca Manzoni, Milano, Italy, and Antonio E. Porreca, Milano, Italy |
+| 12:45 -- 15:45 | Lunch                                                                                                                                      |
 
 <div style="font-family:Source Sans Pro,Helvetica,sans-serif">SESSION 2</div>
 <div style="font-family:Helvetica,sans-serif">Chair: Daniela Genova, Jacksonville, FL, USA</div>
@@ -50,7 +50,7 @@ sitemap:
 <div style="font-family:Helvetica,sans-serif">Moderators: Daniela Besozzi, Milano, Italy and Sepinoud Azimi, Turku, Finland</div>
 
 | 17:10 -- 17:40 | __Discussion session "Quantitative vs Qualitative models in Biology"__ |
-| 20:00          | Social dinner                                                          |
+| 20:00          | Social dinner at "El Brellin" restaurant                               |
 
 ### Wednesday, June 13
 
@@ -85,6 +85,7 @@ sitemap:
 
 | 15:45 -- 16:20 | __Networks of Bio-inspired Language Processors__<br> by Erzsébet Csuhaj-Varjú, Budapest, Hungary |
 | 16:25 -- 17:00 | __Complexity of Interactive Processes of Reaction Systems__ <br> by Luca Manzoni, Milano, Italy  |
+| 17:30          | Social event at "Hangar Bicocca"                                                                 |
 
 ### Friday, June 15
 
