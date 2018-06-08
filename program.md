@@ -17,7 +17,7 @@ sitemap:
 <div style="font-family:Source Sans Pro,Helvetica,sans-serif">SESSION 1</div>
 <div style="font-family:Helvetica,sans-serif">Chair: Giancarlo Mauri, Milano, Italy</div>
 
-| 10:15 -- 11:30 | __Reaction Systems and Zoom Structures__<br> by Grzegorz Rozenberg, Leiden, The Netherlands                                                |
+| 10:15 -- 11:30 | __Reaction Systems and Zoom Structures__<br> by Grzegorz Rozenberg, Leiden, The Netherlands and Boulder, CO, USA                           |
 | 11:35 -- 12:05 | Coffee break                                                                                                                               |
 | 12:05 -- 12:45 | __State Sequences of Interactive Processes of Reaction Systems__<br> by Luca Manzoni, Milano, Italy, and Antonio E. Porreca, Milano, Italy |
 | 12:45 -- 15:45 | Lunch                                                                                                                                      |
@@ -92,8 +92,8 @@ sitemap:
 <div style="font-family:Source Sans Pro,Helvetica,sans-serif">SESSION 1</div>
 <div style="font-family:Helvetica,sans-serif">Chair:  Giancarlo Mauri, Milano, Italy</div>
 
-| 10:00 -- 10:35 | __Linking Reaction Systems with Rough Sets__<br> by Andrzej Skowron, Warsaw, Poland              |
-| 10:40 -- 11:15 | __Cellular Automata and Reaction Systems__<br> by Luca Manzoni, Milano, Italy                    |
-| 11:15 -- 11:45 | Coffee break                                                                                     |
-| 11:45 -- 12:40 | __Reaction Systems and Graph Transformation__<br> by Grzegorz Rozenberg, Leiden, The Netherlands |
-| 12:40 | Lunch                                                                                            |
+| 10:00 -- 10:35 | __Linking Reaction Systems with Rough Sets__<br> by Andrzej Skowron, Warsaw, Poland                                   |
+| 10:40 -- 11:15 | __Cellular Automata and Reaction Systems__<br> by Luca Manzoni, Milano, Italy                                         |
+| 11:15 -- 11:45 | Coffee break                                                                                                          |
+| 11:45 -- 12:40 | __Reaction Systems and Graph Transformation__<br> by Grzegorz Rozenberg, Leiden, The Netherlands and Boulder, CO, USA |
+| 12:40          | Lunch                                                                                                                 |
