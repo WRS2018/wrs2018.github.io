@@ -49,7 +49,7 @@ A network of language processors (an NLP system, for short) consists of a finite
 ### Reaction Systems, Complexity and Bits of Category Theory
 __Enrico Formenti, Nice, France__
 
-Reaction systems (RS) are a very interesting example of (finite) discrete dynamical systems. However, the precise description of their dynamics often requires a huge amount of computational resources. Indeed, that seems to be a common drawback to many kinds of discrete dynamical systems. We therefore generalize questions over RS to questions over generic discrete dynamical systems providing general commons complexity bounds for the most interesting questions. These results will be obtained using descriptive complexity and (simple) ideas from category theory.
+Reaction systems (RS) are a very interesting example of (finite) discrete dynamical systems. However, the precise description of their dynamics often requires a huge amount of computational resources. Indeed, that seems to be a common drawback to many kinds of discrete dynamical systems. We therefore generalize questions over RS to questions over generic discrete dynamical systems providing general commons complexity bounds for the most interesting questions. These results will be obtained using descriptive complexity and (simple) ideas from category theory. Joint work with Alberto Dennunzio, Luca Manzoni, and Antonio E. Porreca.
 
 ### Forbidding-Enforcing Systems, a Precursor of Reaction Systems
 __Daniela Genova, Jacksonville, FL, USA__
@@ -109,7 +109,7 @@ Gene regulatory networks are at the basis of cell functioning. Cells adapt their
 ### Reaction Automata
 __Fumiya Okubo, Tokyo, Japan__
 
-Inspired by the framework of reaction systems, reaction automata were introduced in 2011 as formal computing devices. Reaction automata are regarded as language acceptors with multiset rewriting mechanism whose functioning are controled by reactants, inhibitors and products akin to those of reaction system. In this talk, we introduce the formal definitions of reaction automata of several types subject to input modes and transition modes. Then, we show some results regarding computationally Turing universality and space-bounded subclasses of reaction automata. Finally, determinism and reversibility in reaction automata are discussed.
+Inspired by the framework of reaction systems, reaction automata were introduced in 2011 as formal computing devices. Reaction automata are regarded as language acceptors with multiset rewriting mechanism whose functioning are controled by reactants, inhibitors and products akin to those of reaction system. In this talk, we introduce the formal definitions of reaction automata of several types subject to input modes and transition modes. Then, we show some results regarding computationally Turing universality and space-bounded subclasses of reaction automata. Finally, determinism and reversibility in reaction automata are discussed. Joint research with Takashi Yokomori.
 
 ### Model Checking for Reaction Systems
 __Wojtek Penczek, Warsaw, Poland__
