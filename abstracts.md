@@ -49,7 +49,7 @@ A network of language processors (an NLP system, for short) consists of a finite
 ### Reaction Systems, Complexity and Bits of Category Theory
 __Enrico Formenti, Nice, France__
 
-Reaction systems (RA) are a very interesting example of (finite) discrete dynamical systems. However, the precise description of their dynamics often requires a huge amount of computational resources. Indeed, that seems to be a common drawback to many kinds of discrete dynamical systems. We therefore generalize questions over RA to questions over generic discrete dynamical systems providing general commons complexity bounds for the most interesting questions. These results will be obtained using descriptive complexity and (simple) ideas from category theory.
+Reaction systems (RS) are a very interesting example of (finite) discrete dynamical systems. However, the precise description of their dynamics often requires a huge amount of computational resources. Indeed, that seems to be a common drawback to many kinds of discrete dynamical systems. We therefore generalize questions over RS to questions over generic discrete dynamical systems providing general commons complexity bounds for the most interesting questions. These results will be obtained using descriptive complexity and (simple) ideas from category theory.
 
 ### Forbidding-Enforcing Systems, a Precursor of Reaction Systems
 __Daniela Genova, Jacksonville, FL, USA__
