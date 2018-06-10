@@ -57,8 +57,7 @@ sitemap:
 <div style="font-family:Source Sans Pro,Helvetica,sans-serif">SESSION 1</div>
 <div style="font-family:Helvetica,sans-serif">Chair: Sepinoud Azimi, Turku, Finland</div>
 
-| 10:00 -- 10:35 | __Dynamic Causalities in Reaction Systems and their Applications__<br> by Roberta Gori, Pisa, Italy            |
-| 10:40 -- 11:15 | TBA                                                                                                            |
+| 10:40 -- 11:15 | __Dynamic Causalities in Reaction Systems and their Applications__<br> by Roberta Gori, Pisa, Italy            |
 | 11:15 -- 11:45 | Coffee break                                                                                                   |
 | 11:45 -- 12:20 | __Reaction Systems, Complexity and Bits of Category Theory__<br> by Enrico Formenti, Nice, France              |
 | 12:20 -- 15:45 | Lunch                                                                                                          |
