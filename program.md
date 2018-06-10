@@ -10,6 +10,12 @@ sitemap:
 
 ## Workshop Program
 
+### Locations
+
+| <i>What</i>       | <i>Where</i> |              |
+| __Talks__         | Room T023    | Ground Floor |
+| __Coffee breaks__ | Meeting room | Third Floor  |
+
 ### Monday, June 11
 
 | 10:00 -- 10:15 | Opening |
