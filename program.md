@@ -44,7 +44,7 @@ sitemap:
 | 10:40 -- 11:15 | __From Quantitative Models to Reaction Systems__<br> by Sepinoud Azimi, Turku, Finland        |
 | 11:15 -- 11:45 | Coffee break                                                                                  |
 | 11:45 -- 12:20 | __Modeling Gene Regulatory Networks with Reaction Systems__<br> by Paolo Milazzo, Pisa, Italy |
-| 12:20 -- 15:45 | Lunch                                                                                         |
+| 12:20 -- 16:00 | Lunch                                                                                         |
 
 <div style="font-family:Source Sans Pro,Helvetica,sans-serif">SESSION 2</div>
 <div style="font-family:Helvetica,sans-serif">Chair: Daniela Besozzi, Milano, Italy</div>
@@ -66,7 +66,7 @@ sitemap:
 | 10:40 -- 11:15 | __Dynamic Causalities in Reaction Systems and their Applications__<br> by Roberta Gori, Pisa, Italy |
 | 11:15 -- 11:45 | Coffee break                                                                                        |
 | 11:45 -- 12:20 | __Reaction Systems, Complexity and Bits of Category Theory__<br> by Enrico Formenti, Nice, France   |
-| 12:20 -- 15:45 | Lunch                                                                                               |
+| 12:20 -- 16:00 | Lunch                                                                                               |
 
 <div style="font-family:Source Sans Pro,Helvetica,sans-serif">SESSION 2</div>
 <div style="font-family:Helvetica,sans-serif">Chair:  Paolo  Bottoni, Rome, Italy</div>
@@ -83,7 +83,7 @@ sitemap:
 | 10:40 -- 11:15 | __Model Checking for Reaction Systems__<br> by Wojtek Penczek, Warsaw, Poland |
 | 11:15 -- 11:45 | Coffee break                                                                  |
 | 11:45 -- 12:20 | __Reaction Automata__<br> by Fumiya Okubo, Tokyo, Japan                       |
-| 12:20 -- 15:45 | Lunch                                                                         |
+| 12:20 -- 16:00 | Lunch                                                                         |
 
 <div style="font-family:Source Sans Pro,Helvetica,sans-serif">SESSION 2</div>
 <div style="font-family:Helvetica,sans-serif">Chair:  Maciej Koutny, Newcastle, UK</div>
