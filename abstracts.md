@@ -116,7 +116,7 @@ __Wojtek Penczek, Warsaw, Poland__
 
 The lecture is about three model checking approaches for reaction systems. The first one deals with a branching time temporal logic (rsCTL). The logic is interpreted over the models for the context restricted reaction systems that generalise standard reaction systems by controlling context sequences. The second approach concerns linear time temporal logic for reaction systems (rsLTL) However, in practical applications, a reaction system may only be partially specified, and effective calculation of the missing details would provide an attractive design approach. To develop such an approach, this lectures introduces reaction systems with parameters representing the unknown parts of the reactions. The main result is a method which attempts to replace these parameters in such a way that the resulting reaction system operating in a given external environment satisfies a given temporal logic formula of rsLTL. Joint research with Maciej Koutny, Artur Męski, and Grzegorz Rozenberg.
 
-### Reaction Systems and Graph Transformation
+### Reaction Systems, Zoom Structures, and Graph Transformation
 __Grzegorz Rozenberg, Leiden, The Netherlands and Boulder, CO, USA__
 
 A typical approach to graph transformation (graph rewriting, graph grammars) is based on ``cutting and pasting'': applying a graph transformation rule to a graph G requires an identification of a subgraph H of G to be removed, replacing it by a subgraph M, and then reconnecting M to the graph G' which results by removing H from G.
